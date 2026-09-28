@@ -1,0 +1,24 @@
+Create a complete modern responsive NGO website called “HopeBridge Foundation”.
+The organization is a fictional social-impact NGO based in India focused on education, healthcare,
+women empowerment, digital inclusion and community development.
+
+Create these sections:
+1. Home – strong hero heading, mission statement, CTA buttons
+2. About Us – organization story, mission, vision and values
+3. Programs/Services – Education, Healthcare, Women Empowerment, Community Development, Digital Inclusion and Volunteer Network
+4. Our Impact – statistics cards for people reached, initiatives, volunteers and partnerships
+5. Get Involved – Volunteer, Donate and Partner cards
+6. Contact – contact information and contact form
+7. Footer – navigation and copyright
+
+Design requirements:
+- Professional NGO/social-impact appearance
+- Clean, modern and trustworthy design
+- Green, cream and white color palette
+- Rounded cards and subtle glass/blur effects
+- Strong typography and generous spacing
+- Responsive on desktop, tablet and mobile
+- Use appropriate royalty-free/AI-generated visuals if the platform supports them
+- Include clear navigation between sections
+- Make the website presentation-ready for an academic assignment
+- Do not claim that the impact statistics are real; label them as illustrative/demo figures if displayed.
