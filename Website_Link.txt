@@ -1,7 +1,7 @@
 TASK 3 – WEBSITE LINK
 
 Project: HopeBridge Foundation
-Website URL: PASTE YOUR PUBLISHED AI WEBSITE LINK HERE
+Website URL: https://seanandrades1701.github.io/NGO-website/
 
 AI Tool Used: ChatGPT
 Date Completed: 28 September 2026
